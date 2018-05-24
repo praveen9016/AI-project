@@ -1,0 +1,5 @@
+Access Token	2903733235-o9onGdfEaluiZO4j0q3THsvqot6qJukLqTdvQTs
+Access Token Secret	XShvoYUL0qVh7pFyZwua6nFosX4XEpE33sbsqR3rEUVeG
+
+Consumer Key (API Key)	ykefwUhdv17tQbEtZoc9TTxSW
+Consumer Secret (API Secret)	Nnur5btiXyxp6IL4fC2eUAzPF19gOEHX5IdYpWsXv00qcKGCgr
